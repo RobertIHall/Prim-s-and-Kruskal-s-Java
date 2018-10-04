@@ -13,8 +13,8 @@ You will need:
 	- Java 1.6 Runtime
 	- ant 1.9.9 version
 	-Insert link here for file host-
-Included in this link will be all the applications you will need to run the game. Simply extract and put the "Java" folder into your main drive. Whether it be C:, D: , etc.
-To run the game open the command prompt to the directory where the files for the game are stored. 
+Included in this link will be all the applications you will need to run the program. Simply extract and put the "Java" folder into your main drive. Whether it be C:, D: , etc.
+To run the program open the command prompt to the directory where the files for the program are stored. 
 Use the command "build 'enter letter of your drive here' 'cities_name_file.txt' city_mileage_file.txt' ". I have included two sets of test files for you to use. To use you will type in "build c cities.txt city_mileage.txt".
 
 ------------------------------
